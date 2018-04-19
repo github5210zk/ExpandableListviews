@@ -1,0 +1,2 @@
+# ExpandableListviews
+二级列表，仿QQ列表实现点击展示好友信息的Demo,并且实现了一个组对象展开后其他的组对象都关闭
